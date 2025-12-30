@@ -1,0 +1,100 @@
+[
+  {
+    "id": "hotel_001",
+    "name": "Grand Plaza Hotel",
+    "basePrice": 120,
+    "rating": 4.5,
+    "location": "City Center",
+    "amenities": ["WiFi", "Pool", "Spa", "Restaurant", "Gym"],
+    "destinations": ["paris", "london", "rome", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/grand-plaza",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+  },
+  {
+    "id": "hotel_002",
+    "name": "Budget Inn Express",
+    "basePrice": 45,
+    "rating": 3.8,
+    "location": "Downtown",
+    "amenities": ["WiFi", "Breakfast"],
+    "destinations": ["tokyo", "bangkok", "bali", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/budget-inn",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+  },
+  {
+    "id": "hotel_003",
+    "name": "Luxury Resort & Spa",
+    "basePrice": 350,
+    "rating": 4.9,
+    "location": "Beachfront",
+    "amenities": ["WiFi", "Pool", "Spa", "Restaurant", "Gym", "Beach Access", "Concierge"],
+    "destinations": ["bali", "maldives", "santorini", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/luxury-resort",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+  },
+  {
+    "id": "hotel_004",
+    "name": "Cozy Boutique Hotel",
+    "basePrice": 85,
+    "rating": 4.2,
+    "location": "Historic District",
+    "amenities": ["WiFi", "Breakfast", "Bar"],
+    "destinations": ["paris", "prague", "vienna", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/cozy-boutique",
+    "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427"
+  },
+  {
+    "id": "hotel_005",
+    "name": "Modern Business Hotel",
+    "basePrice": 150,
+    "rating": 4.4,
+    "location": "Business District",
+    "amenities": ["WiFi", "Pool", "Restaurant", "Gym", "Business Center"],
+    "destinations": ["new york", "london", "tokyo", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/modern-business",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+  },
+  {
+    "id": "hotel_006",
+    "name": "Mountain View Lodge",
+    "basePrice": 95,
+    "rating": 4.3,
+    "location": "Mountain Area",
+    "amenities": ["WiFi", "Restaurant", "Hiking Trails"],
+    "destinations": ["switzerland", "nepal", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/mountain-view",
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791"
+  },
+  {
+    "id": "hotel_007",
+    "name": "Beachside Inn",
+    "basePrice": 110,
+    "rating": 4.1,
+    "location": "Beachfront",
+    "amenities": ["WiFi", "Pool", "Beach Access", "Restaurant"],
+    "destinations": ["bali", "thailand", "maldives", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/beachside-inn",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+  },
+  {
+    "id": "hotel_008",
+    "name": "Historic Palace Hotel",
+    "basePrice": 280,
+    "rating": 4.7,
+    "location": "City Center",
+    "amenities": ["WiFi", "Spa", "Restaurant", "Concierge", "Historic Tours"],
+    "destinations": ["paris", "rome", "vienna", "all"],
+    "source": "booking.com",
+    "bookingUrl": "https://booking.com/hotel/historic-palace",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+  }
+]
+
+
