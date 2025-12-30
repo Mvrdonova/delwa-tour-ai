@@ -90,8 +90,8 @@ By using AI, the platform provides **optimized and actionable travel plans**.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mvrdonova/ai-travel-planner.git
-cd ai-travel-planner
+git clone https://github.com/mvrdonova/delwa-tour-ai.git
+cd delwa-tour-ai
 ```
 
 2. Install backend dependencies:
@@ -156,7 +156,7 @@ The application will be available at:
 ## Project Structure
 
 ```
-ai-travel-planner/
+delwa-tour-ai/
 ├── frontend/                 # Next.js frontend application
 │   ├── src/
 │   │   ├── app/             # Next.js app router pages
